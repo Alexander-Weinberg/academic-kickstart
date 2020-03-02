@@ -61,3 +61,5 @@ math = false
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+Here is more details about this. 
