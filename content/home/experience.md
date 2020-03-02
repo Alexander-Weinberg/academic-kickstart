@@ -24,9 +24,7 @@ date_format = "Jan 2006"
   location = "Chicago, IL"
   date_start = "2019-09-06"
   date_end = ""
-  description = """
-  Responsibilities include:
-  """
+  description = """"""
 
 [[experience]]
   title = "Research Assistant to Prof. Jonathan Dingel"
