@@ -75,4 +75,5 @@ His research interests include computational macroeconomics, labor economics, an
 He received his BA in Economics (Honors) from the University of Chicago in 2019.
 
 Languages:
+
 Arabic (Advanced), Hebrew (Advanced), Wolof (Intermediate), and French (Elementary).
