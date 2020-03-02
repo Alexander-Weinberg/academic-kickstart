@@ -11,7 +11,7 @@ authors = ""
 publication_types = ["4"]
 
 # Abstract and optional shortened version.
-abstract= "Taught price theory, introductory econometrics, Neoclassical growth, and game theory to advanced high schoolers."
+abstract= "Taught Intermediate Macroeconomics, Intermediate Microeconomics, and Introductory Econometrics to advanced high schoolers."
 
 # Is this a selected publication? (true/false)
 selected = true
