@@ -36,10 +36,10 @@ url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
-url_slides = "https://summer.uchicago.edu/course/pathways-economics"
+url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://summer.uchicago.edu/course/pathways-economics"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
