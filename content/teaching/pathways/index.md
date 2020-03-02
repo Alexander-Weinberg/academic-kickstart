@@ -62,4 +62,4 @@ math = false
   focal_point = ""
 +++
 
-Here is more details about this. 
+<!-- Write a blog post here! Alex this is your shot.  -->
