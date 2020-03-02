@@ -53,7 +53,7 @@ social:
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Alexander-Weinberg
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -74,4 +74,5 @@ Alex Weinberg is a pre-doctoral research specialist working for Simon Mongey at 
 His research interests include computational macroeconomics, labor economics, and applications of machine learning and  econometrics.
 He received his BA in Economics (Honors) from the University of Chicago in 2019.
 
-Languages: Arabic (Advanced), Hebrew (Advanced), Wolof (Intermediate), and French (Elementary).
+Languages:
+Arabic (Advanced), Hebrew (Advanced), Wolof (Intermediate), and French (Elementary).
