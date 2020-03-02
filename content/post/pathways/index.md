@@ -31,6 +31,7 @@ slides = ""
 tags = ""
 
 # Links (optional).
+url_custom = [{name = "Program Website", url = "https://summer.uchicago.edu/course/pathways-economics"}]
 url_pdf = ""
 url_preprint = ""
 url_code = ""
@@ -39,7 +40,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://summer.uchicago.edu/course/pathways-economics"
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
