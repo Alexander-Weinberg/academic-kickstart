@@ -26,9 +26,6 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Responsibilities include:
-
-  * Solving Heterogenous Agent Models
-  * Working with large micro datasets
   """
 
 [[experience]]
@@ -38,7 +35,7 @@ date_format = "Jan 2006"
   location = "Chicago, IL"
   date_start = "2018-09-01"
   date_end = "2019-06-30"
-  description = """Scraped, cleaned, and analyzed bills of lading data (14 million observations)"""
+  description = """"""
 
 [[experience]]
   title = "Research Assistant to Prof. Alessandra Voena"
@@ -47,6 +44,6 @@ date_format = "Jan 2006"
   location = "Chicago, IL"
   date_start = "2017-09-01"
   date_end = "2018-06-30"
-  description = """Wrote code to solve dynamic programming problems"""
+  description = """"""
 
 +++
