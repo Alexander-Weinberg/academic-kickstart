@@ -31,7 +31,7 @@ slides = ""
 tags = ""
 
 # Links (optional).
-<!-- url_pdf = "https://github.com/Alexander-Weinberg/WeinbergVeillette_Bail/raw/master/WeinbergVeilletteBondFinal.pdf" -->
+url_pdf = "https://github.com/Alexander-Weinberg/WeinbergVeillette_Bail/raw/master/WeinbergVeilletteBondFinal.pdf"
 url_preprint = ""
 url_code = "https://github.com/Alexander-Weinberg/WeinbergVeillette_Bail"
 url_dataset = "https://data.ct.gov/Public-Safety/Accused-Pre-Trial-Inmates-in-Correctional-Faciliti/b674-jy6w"
