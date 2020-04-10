@@ -21,10 +21,9 @@ organizations:
 bio: I am a pre-doctoral research specialist working for Professor Simon Mongey at University of Chicago.
 
 interests:
-- Computational Macroeconomics
+- Applied Macroeconomics
 - Labor Economics
-- Applied Microeconometrics
-- Applications of Machine Learning
+- Econometrics
 
 education:
   courses:
@@ -71,8 +70,8 @@ user_groups:
 - Visitors
 ---
 
-Alex Weinberg is a pre-doctoral research specialist working for Simon Mongey at University of Chicago.
-His research interests include computational macroeconomics, labor economics, and applications of machine learning and  econometrics.
+Alex Weinberg is a pre-doctoral research specialist working for Prof. Simon Mongey at University of Chicago.
+His research interests include applied macroeconomics, labor economics, and econometrics.
 He received his BA in Economics (Honors) from the University of Chicago in 2019.
 
-Languages:    Arabic | Hebrew | Wolof | French (Elementary)
+Languages:    Arabic | Hebrew | Wolof | French (Beginner)
