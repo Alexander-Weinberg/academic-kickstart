@@ -3,7 +3,7 @@ title = "Characteristics of Workers in Low Work-From-Home and High Personal-Prox
 date = 2019-03-22T00:00:00
 draft = false
 
-authors = ["Simon Mongey", "Laura Pilossoph" "Alex Weinberg"]
+authors = ["Simon Mongey", "Laura Pilossoph", "Alex Weinberg"]
 
 # Publication type.
 # Legend:
