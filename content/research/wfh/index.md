@@ -1,6 +1,6 @@
 +++
 title = "Characteristics of Workers in Low Work-From-Home and High Personal-Proximity Occupations"
-date = 2019-03-22T00:00:00
+date = 2020-04-17T00:00:00
 draft = false
 
 authors = ["Simon Mongey", "Laura Pilossoph", "Alex Weinberg"]
@@ -43,7 +43,8 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+ 
+url_custom = [{name = "Brookings", url = "https://www.brookings.edu/blog/up-front/2020/04/09/hutchins-roundup-demand-deficient-recessions-remote-work-and-more/"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
