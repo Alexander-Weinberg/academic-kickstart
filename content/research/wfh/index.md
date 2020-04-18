@@ -39,13 +39,12 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_brookings = "https://www.brookings.edu/blog/up-front/2020/04/09/hutchins-roundup-demand-deficient-recessions-remote-work-and-more/"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
  
-url_custom = [{name = "Brookings", url = "https://www.brookings.edu/blog/up-front/2020/04/09/hutchins-roundup-demand-deficient-recessions-remote-work-and-more/"},
-	{name = "Brookings2", url = "https://www.brookings.edu/blog/up-front/2020/04/09/hutchins-roundup-demand-deficient-recessions-remote-work-and-more/"}]
+url_custom = [{name = "Brookings", url = "https://www.brookings.edu/blog/up-front/2020/04/09/hutchins-roundup-demand-deficient-recessions-remote-work-and-more/"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
