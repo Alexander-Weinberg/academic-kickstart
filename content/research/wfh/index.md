@@ -11,7 +11,7 @@ authors = ["Simon Mongey", "Laura Pilossoph", "Alex Weinberg"]
 publication_types = ["4"]
 
 # Abstract and optional shortened version.
-abstract="We categorize occupations by a measure that captures the likelihood that jobs can be conducted from home (Dingel and Neiman, 2020), as well as a measure of low personal proximity in the workplace. The former relates to how well work can be done under social distancing policies, the latter relates to how quickly occupations might come back online. We then compare characteristics of workers in low work-from-home and high personal-proximity occupations. Relative to workers in high work-from-home occupations, workers in low work-from-home occupations are less likely to be white, have a college degree, or have employer provided healthcare, more likely to be in the bottom half of the income distribution, and more likely to rent their homes. These workers are less likely to have access to informal insurance channels: more likely to be single, and less likely to be born in the United States. They are also less likely to have had stable jobs: more likely to have been unemployed in the last year, less likely to be employed full-time, and less likely to be employed in large firms. Females are both more likely to be in high work-from-home occupations and more likely to work in high physical-proximity occupations, suggesting that the employment effects of broad social distancing policies on women may be less severe, but later integration into the economy may be more difficult."
+abstract="What are the characteristics of workers in jobs likely to be initially affected by broad social distancing and later by narrower policy tailored to jobs with low risk of disease transmission? We use O∗NET to construct a measure of the likelihood that jobs can be conducted from home (a variant of Dingel and Neiman, 2020) and a measure of low physical proximity to others at work. We validate the measures by showing how they relate to similar measures constructed using time use data from ATUS. Our main finding is that workers in low-work-from-home or high-physical- proximity jobs are more economically vulnerable across various measures constructed from the CPS and PSID: they are less educated, of lower income, have fewer liquid assets relative to income, and are more likely renters. We further substantiate the measures with behavior during the epidemic. First, we show that MSAs with less pre-virus employment in work-from-home jobs experienced smaller declines in the incidence of ‘staying-at-home’, as measured using SafeGraph cell phone data. Second, we show that both occupations and types of workers predicted to be employed in low work-from-home jobs experienced greater declines in employment according to the March 2020 CPS. For example, non-college educated workers experienced a 4ppt larger decline in employment relative to those with a college degree."
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -31,20 +31,23 @@ slides = ""
 tags = ""
 
 # Links (optional).
-url_pdf = ""
-url_preprint = "https://bfi.uchicago.edu/working-paper/characteristics-of-workers-in-low-work-from-home-and-high-personal-proximity-occupations/"
+url_pdf = "http://www.simonmongey.com/uploads/6/5/6/6/65665741/mongey_pilossoph_weinberg_work_from_home_april_2020.pdf"
+url_preprint = "https://bfi.uchicago.edu/working-paper/which-workers-bear-the-burden-of-social-distancing-policies/"
 url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_brookings = "https://www.brookings.edu/blog/up-front/2020/04/09/hutchins-roundup-demand-deficient-recessions-remote-work-and-more/"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
  
-url_custom = [{name = "Brookings", url = "https://www.brookings.edu/blog/up-front/2020/04/09/hutchins-roundup-demand-deficient-recessions-remote-work-and-more/"}]
+url_custom = 
+[
+	{name = "NYTimes", url = "https://www.nytimes.com/2020/04/27/business/economy/coronavirus-economic-inequality.html"}, 
+	{name = "Fivethirtyeight", url="https://fivethirtyeight.com/features/the-americans-who-suffered-when-the-economy-shut-down-are-also-in-more-danger-as-it-reopens/"}
+]
 
 # Digital Object Identifier (DOI)
 doi = ""
