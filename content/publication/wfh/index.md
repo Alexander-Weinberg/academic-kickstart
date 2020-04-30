@@ -1,5 +1,5 @@
 +++
-title = "Characteristics of Workers in Low Work-From-Home and High Personal-Proximity Occupations"
+title = "Which workers bear the burden of social distancing policies?"
 date = 2020-04-17T00:00:00
 draft = false
 
