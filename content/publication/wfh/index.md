@@ -45,9 +45,14 @@ url_poster = ""
 
 # url_custom = [{name = "NYTimes", url = "https://www.nytimes.com/2020/04/27/business/economy/coronavirus-economic-inequality.html"}]
 
+links:
+- name: NYTimes
+  url: https://www.nytimes.com/2020/04/27/business/economy/coronavirus-economic-inequality.html
+
+
 [[url_custom]]
 name = "NYTimes"
-url = "https://www.nytimes.com/2020/04/27/business/economy/coronavirus-economic-inequality.html" 
+url = "" 
 
 [[url_custom]]
 name = "Fivethirtyeight"
