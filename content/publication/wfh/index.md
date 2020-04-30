@@ -39,17 +39,14 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
+url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
+
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 
 # url_custom = [{name = "NYTimes", url = "https://www.nytimes.com/2020/04/27/business/economy/coronavirus-economic-inequality.html"}]
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: NYTimes
-  url: https://www.nytimes.com/2020/04/27/business/economy/coronavirus-economic-inequality.html
 
 
 [[url_custom]]
