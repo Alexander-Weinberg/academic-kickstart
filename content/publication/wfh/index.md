@@ -39,7 +39,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
+url_custom = [name="Follow", url = "https://twitter.com/georgecushen"}]
 
 
 # Custom links (optional).
