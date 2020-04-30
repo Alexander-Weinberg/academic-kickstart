@@ -42,8 +42,17 @@ url_poster = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
- 
-url_custom = [{name = "NYTimes", url = "https://www.nytimes.com/2020/04/27/business/economy/coronavirus-economic-inequality.html"}, {name = "Fivethirtyeight", url="https://fivethirtyeight.com/features/the-americans-who-suffered-when-the-economy-shut-down-are-also-in-more-danger-as-it-reopens/"}]
+
+# url_custom = [{name = "NYTimes", url = "https://www.nytimes.com/2020/04/27/business/economy/coronavirus-economic-inequality.html"}]
+
+[[url_custom]]
+name = "NYTimes"
+url = "https://www.nytimes.com/2020/04/27/business/economy/coronavirus-economic-inequality.html" 
+
+[[url_custom]]
+name = "Fivethirtyeight"
+url  = "https://fivethirtyeight.com/features/the-americans-who-suffered-when-the-economy-shut-down-are-also-in-more-danger-as-it-reopens/"
+
 
 # Digital Object Identifier (DOI)
 doi = ""
