@@ -39,6 +39,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
+url_fivethirtyeight = "https://fivethirtyeight.com/features/the-americans-who-suffered-when-the-economy-shut-down-are-also-in-more-danger-as-it-reopens/"
 url_custom = [{name="Follow", url = "https://twitter.com/georgecushen"}]
 
 
