@@ -47,10 +47,10 @@ url_custom = [{name="Follow", url = "https://twitter.com/georgecushen"}]
 
 # url_custom = [{name = "NYTimes", url = "https://www.nytimes.com/2020/04/27/business/economy/coronavirus-economic-inequality.html"}]
 
-name = "NYTimes"
-url = "https://www.nytimes.com/2020/04/27/business/economy/coronavirus-economic-inequality.html" 
-name = "Fivethirtyeight"
-url  = "https://fivethirtyeight.com/features/the-americans-who-suffered-when-the-economy-shut-down-are-also-in-more-danger-as-it-reopens/"
+# name = "NYTimes"
+#url = "https://www.nytimes.com/2020/04/27/business/economy/coronavirus-economic-inequality.html" 
+#name = "Fivethirtyeight"
+# url  = "https://fivethirtyeight.com/features/the-americans-who-suffered-when-the-economy-shut-down-are-also-in-more-danger-as-it-reopens/"
 
 
 # Digital Object Identifier (DOI)
