@@ -33,7 +33,7 @@ tags = ""
 # Links (optional).
 url_pdf = "http://www.simonmongey.com/uploads/6/5/6/6/65665741/mongey_pilossoph_weinberg_work_from_home_april_2020.pdf"
 url_preprint = "https://bfi.uchicago.edu/working-paper/which-workers-bear-the-burden-of-social-distancing-policies/"
-url_code = ""
+url_code = "https://github.com/simonmongey/Mongey_Pilossoph_Weinberg"
 url_dataset = ""
 url_project = ""
 url_slides = ""
