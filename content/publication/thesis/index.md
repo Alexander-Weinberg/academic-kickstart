@@ -3,7 +3,7 @@ title = "Low Skill Jobs, Changing Task Content, and Occupation Specialization"
 date = 2019-05-22T00:00:00
 draft = false
 
-authors = ["Alex Weinberg"]
+authors = ["Alexander Weinberg"]
 
 # Publication type.
 # Legend:

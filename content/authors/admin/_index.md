@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Alex Weinberg
+name: Alexander Weinberg
 
 # Username (this should match the folder name)
 authors:
@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-Alex Weinberg is a pre-doctoral research specialist working for Prof. Simon Mongey at University of Chicago.
+Alex is a pre-doctoral research specialist working for Prof. Simon Mongey at University of Chicago.
 His research interests include applied macroeconomics, labor economics, and econometrics.
 He received his BA in Economics (Honors) from the University of Chicago in 2019.
 

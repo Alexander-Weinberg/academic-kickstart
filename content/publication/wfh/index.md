@@ -3,7 +3,7 @@ title = "Which workers bear the burden of social distancing policies?"
 date = 2020-04-17T00:00:00
 draft = false
 
-authors = ["Simon Mongey", "Laura Pilossoph", "Alex Weinberg"]
+authors = ["Simon Mongey", "Laura Pilossoph", "Alexander Weinberg"]
 
 # Publication type.
 # Legend:

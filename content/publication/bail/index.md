@@ -3,7 +3,7 @@ title = "Do Bail Bonds Prevent Failure to Appear at Trial?"
 date = 2019-03-22T00:00:00
 draft = false
 
-authors = ["Alex Weinberg", "John Veillette"]
+authors = ["Alexander Weinberg", "John Veillette"]
 
 # Publication type.
 # Legend:
