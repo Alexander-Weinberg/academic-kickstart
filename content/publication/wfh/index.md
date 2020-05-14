@@ -39,10 +39,10 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
+url_custom = [{name="Fivethirtyeight", url = "https://fivethirtyeight.com/features/the-americans-who-suffered-when-the-economy-shut-down-are-also-in-more-danger-as-it-reopens/"}, {"NYTimes", "https://www.nytimes.com/2020/04/27/business/economy/coronavirus-economic-inequality.html"}, {"WSJ", "https://www.wsj.com/articles/a-bleak-landscape-for-lowest-paid-workers-11588952358"}]
+
 url_fivethirtyeight = "https://fivethirtyeight.com/features/the-americans-who-suffered-when-the-economy-shut-down-are-also-in-more-danger-as-it-reopens/"
 url_NYTimes = "https://www.nytimes.com/2020/04/27/business/economy/coronavirus-economic-inequality.html"
-
-url_custom = [{name="Follow", url = "https://twitter.com/georgecushen"}]
 
 
 # Custom links (optional).
